@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "834042029587",
+    "project_id": "weather-final-fb",
+    "storage_bucket": "weather-final-fb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:834042029587:android:c52cc7e67c38c8fa9581e6",
+        "android_client_info": {
+          "package_name": "com.example.weather_final"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "834042029587-4jtdu9b772dmpgu73r7o35efa4grhbn3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUReMSo5nk1RrI_peE0HHr2EwC4vQeHCc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "834042029587-4jtdu9b772dmpgu73r7o35efa4grhbn3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
