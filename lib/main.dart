@@ -27,7 +27,9 @@ class MyApp extends StatelessWidget {
       debugShowCheckedModeBanner: false,
       title: title,
       theme: ThemeData.from(
-          colorScheme: ColorScheme.fromSwatch(primarySwatch: Colors.yellow)),
+          colorScheme: ColorScheme.fromSwatch(
+        primarySwatch: Colors.pink,
+      ).copyWith(secondary: Colors.purple)),
       home: MainPage());
 }
 
